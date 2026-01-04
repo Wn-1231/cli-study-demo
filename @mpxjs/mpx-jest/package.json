@@ -1,0 +1,30 @@
+{
+  "name": "@mpxjs/mpx-jest",
+  "version": "0.0.18",
+  "description": "mpx jest transformer",
+  "main": "mpx-jest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpx-ecology/mpx-jest.git"
+  },
+  "keywords": [
+    "jest",
+    "mpx",
+    "unittest"
+  ],
+  "author": "xuegan",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/mpx-ecology/mpx-jest/issues"
+  },
+  "homepage": "https://github.com/mpx-ecology/mpx-jest#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "peerDependencies": {
+    "@mpxjs/webpack-plugin": "^2.7.11"
+  }
+}
